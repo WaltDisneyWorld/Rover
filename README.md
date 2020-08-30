@@ -12,10 +12,10 @@
   <a href="https://eryn.io/RoVer"><img src="https://img.shields.io/badge/verified%20users-3.2M%2B-brightgreen.svg" alt="Verified Users"></a>
   <a href="https://eryn.io/RoVer"><img src="https://img.shields.io/badge/total%20servers-101K%2B-brightgreen.svg" alt="Discord Servers"></a>
   <br>
-  <a href="https://discord.gg/7yfwrat"><img src="https://img.shields.io/discord/425800792679645204.svg" alt="Discord"></a>
+  <a href="https://discord.gg/"><img src="https://img.shields.io/discord/425800792679645204.svg" alt="Discord"></a>
 </p>
 
-<h1 align="center"><a href="https://rover.link/#readme">Documentation can be found on the RoVer website</a></h1>
+<h1 align="center"><a href="https://rover">Documentation can be found on the RoVer website</a></h1>
 
 ## Self-hosting instructions
 Self-hosting is recommended for advanced users only who are experienced with the Node.js ecosystem. Note that setup or code support will not be given for attempting to run your own instance of RoVer, modified or otherwise.
